@@ -19,9 +19,9 @@ setup(
 
     url='https://github.com/mek97/epidemic-prediction',  # Optional
 
-    author='The Python Packaging Authority',  # Optional
+    author='Mehul Kumar',  # Optional
 
-    author_email='pypa-dev@googlegroups.com',  # Optional
+    author_email='mehul.k1997@gmail.com',  # Optional
 
     classifiers=[  # Optional
         'Programming Language :: Python :: 3.5',

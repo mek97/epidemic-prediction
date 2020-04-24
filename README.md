@@ -1,3 +1,3 @@
 # Epidemic predictor
 
-Data science project to predict epidemic trends and effects
+ Project to predict epidemic trends and effects
